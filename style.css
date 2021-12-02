@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&display=swap');
+body{
+
+        background-color:rgb(253, 251, 251);
+        font-family: 'Nunito', sans-serif;
+    }
+    #cabecalho{
+      position: fixed;
+      top: 0;
+      background-color:rgb(68, 184, 68);
+      margin: 0;
+      width: 100%;
+      padding: 15px;
+    }
+    
+   #titulo{ 
+      font-size: 50px;
+      color:rgb(86, 88, 86); 
+      margin:0%;
+      text-align: center;
+    }
+    
+
+    #boxmodel{
+      margin: 0;
+      border: 0.5px solid black;
+      background-color: rgb(68, 184, 68);
+      font-family: 'Nunito', sans-serif;
+      text-align: center;
+      padding: 11px;
+      letter-spacing: 5px;
+      line-height: 20px;
+
+    }
+   
+    p{
+      font-size: 24px;
+      font-family: 'Nunito';
+      color:rgb(86, 88, 86);
+    }
+    
+
+    #minha_foto{
+      width: 300px;
+      margin-top: 80px;
+      margin-right: 40px;
+      margin-left: 44px;
+      border-radius: 20px;
+    }
+    .lado-direito, .lado-esquerdo{
+      display: inline-block;
+    }
+    #licoes_aprendidas, #licoes_a_aprender{
+     font-family:'Nunito', sans-serif;
+     font-size: 20px;
+     display: inline-block;
+   }
+   #tabela, th, tr{
+    font-family: 'Nunito', sans-serif;
+    border: 1px solid black;
+  }
+
+    #rodape{
+      font-size: 50px;
+      text-align: center;
+    }
+  
